@@ -1,2 +1,2 @@
 # CodigoUpScale
-Este programa escrito no MATLAB tem como objetivo duplicar o tamanho de uma imagem atráves da média entre as colunas e as linhas.
+This program written in MATLAB aims to double the size of an image through the average between columns and rows.
